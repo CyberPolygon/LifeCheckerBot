@@ -34,5 +34,3 @@ create unique index user_phone_number_uindex
 
 create unique index user_telegram_uindex
     on "user" (telegram);
-
-INSERT INTO public."user" (id, team_id, full_name, phone_number, university_name, study_group, telegram, github, vkontakte, email, tshirt_size) VALUES (215496538, null, 'Николенко Роман Евгеньевич', '+79834578656', 'СИБГУТИ', 'АВ-82', 'madwayz1337', 'https://github.com/madwayz1337', 'https://vk.com/madwayz1337', 'djurball@list.ru', 'L');

@@ -18,5 +18,3 @@ create unique index team_id_uindex
 
 create unique index team_name_uindex
     on team (team_name);
-
-INSERT INTO public.team (id, team_name, captain_id) VALUES (11, '[LIFE] Laboratory', 215496538);

@@ -1,1 +1,0 @@
-UPDATE public."user" SET team_id = null, full_name = 'Николенко Роман Евгеньевич', phone_number = '+79834578656', university_name = 'СИБГУТИ', study_group = 'АВ-82', telegram = 'madwayz1337', github = 'https://github.com/madwayz1337', vkontakte = 'https://vk.com/madwayz1337', email = 'djurball@list.ru', tshirt_size = 'L' WHERE id = 215496538;

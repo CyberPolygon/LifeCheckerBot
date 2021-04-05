@@ -1,0 +1,1 @@
+UPDATE public.team SET team_name = '[LIFE] Laboratory', captain_id = 215496538 WHERE id = 11;
